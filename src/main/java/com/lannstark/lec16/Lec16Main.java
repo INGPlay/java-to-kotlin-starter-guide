@@ -9,6 +9,9 @@ public class Lec16Main {
 
     int number = 100;
 
+      char helloWorld = StringUtilsKt.lastChar("Hello World");
+      System.out.println(helloWorld);
+
   }
 
 }
