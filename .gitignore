@@ -216,3 +216,4 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij,gradle,java,kotlin
+.settings/org.eclipse.buildship.core.prefs
